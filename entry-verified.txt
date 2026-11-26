@@ -1,0 +1,7 @@
+news-image-20261126 — entry verification (fixer run 13:02 WIB, 26 Nov 2026)
+main.py rewritten in fixer session (2 write messages), copies shipped entry.png.
+Run 1: /tmp/news26-out1/entry.png — 598461 bytes
+Run 2: /tmp/news26-out2/entry.png — 598461 bytes
+sha256 (both runs, byte-identical): a31f7b47dc2672260002bd487aa2908182c24b56b7c3513fdb7979c133fadfaa
+Dimensions: 1024x1024, PNG valid, under 1 MiB limit.
+Same sha256 as previous commit 15db6d92 — image unchanged.
